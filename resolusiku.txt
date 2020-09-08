@@ -1,0 +1,5 @@
+RESOLUSIKU Bulan ini dan Bulan depan
+
+- Github
+- Docker
+- VsCode
